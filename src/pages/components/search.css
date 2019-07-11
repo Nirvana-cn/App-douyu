@@ -1,0 +1,23 @@
+.wrapper{
+  width: 100%;
+  height:50px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  color: #fff;
+}
+
+.content {
+  width: 50%;
+  height: 60%;
+  color: #ccc;
+  padding: 0 10px;
+  background-color:#fff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}

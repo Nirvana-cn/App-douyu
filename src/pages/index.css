@@ -1,0 +1,15 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  flex: 0 1 50px;
+  background: linear-gradient(to right, #ED823C, #EB6837);
+}
+
+.main {
+  position: relative;
+  flex: auto;
+}
